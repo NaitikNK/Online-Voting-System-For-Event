@@ -1,0 +1,11 @@
+<Advertisements>
+<Ad>
+	<ImageUrl>~/Images/Advertisement/1.png</ImageUrl>
+</Ad>
+<Ad>
+	<ImageUrl>~/Images/Advertisement/2.png</ImageUrl>
+</Ad>
+<Ad>
+	<ImageUrl>~/Images/Advertisement/3.png</ImageUrl>
+</Ad>
+</Advertisements>
